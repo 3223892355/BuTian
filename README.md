@@ -208,3 +208,5 @@
 
 请仅在合法授权范围内使用本工具。  
 因未授权测试、违规提交、擅自扩大测试范围而导致的任何问题，请使用者自行承担责任。
+
+<img width="515" height="530" alt="image" src="https://github.com/user-attachments/assets/1b098e6d-59ae-47f7-92dd-cd72550c3637" />
